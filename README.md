@@ -3,6 +3,10 @@
 [Resource - MDN Mongo Info](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Connecting_to_MongoDB) |
 [Resource - Mongoose Methods](https://mongoosejs.com/docs/api/model.html)
 
+### You're missing one of your read methods and two of the read methods you do have to to the same place. Check out the answer repo for an example of path naming practices. 
+
+### Score : 3/5
+
 ### Schema
 Define a Resident Schema with properties :
 - first name (string)
